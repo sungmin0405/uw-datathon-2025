@@ -1,0 +1,7 @@
+Versions for the interactive plot
+
+Xgboost = 2.0.3
+Pandas = 1.4.0
+Numpy = 1.26.4
+Matplotlib = 3.9.2
+
